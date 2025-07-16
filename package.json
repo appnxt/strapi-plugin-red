@@ -60,8 +60,8 @@
     "displayName": "",
     "description": ""
   },
-  "name": "red",
-  "description": "",
+  "name": "strapi-plugin-red",
+  "description": "Strapi - NodeRED plugin",
   "license": "MIT",
   "author": "Junius <cho@jun.ac>"
 }

@@ -15200,9 +15200,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"red@workspace:.":
+"strapi-plugin-red@workspace:.":
   version: 0.0.0-use.local
-  resolution: "red@workspace:."
+  resolution: "strapi-plugin-red@workspace:."
   dependencies:
     "@strapi/design-system": "npm:^2.0.0-rc.27"
     "@strapi/icons": "npm:^2.0.0-rc.27"
